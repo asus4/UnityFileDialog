@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'UnityNativeDialogPlugin' target in the 'UnityNativeDialogPlugin' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
